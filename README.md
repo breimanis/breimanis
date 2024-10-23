@@ -27,8 +27,3 @@ Playing
 >Video games developed by 'facepunch'
 ```
 ![alt text](https://github.com/breimanis/breimanis/blob/main/ascii-art.png)
-
-<div style="display: flex; width: 100%;">
-    <div style="flex: 1; height: 100%;">1</div>
-    <div style="flex: 1; height: 100%;">2</div>
-</div>
