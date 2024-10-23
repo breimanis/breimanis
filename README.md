@@ -1,8 +1,12 @@
 ~~## Hi there 👋~~
-<div class="container" style="display: flex; flex-direction: row; height: 100vh;">
-    <div style="flex: 1; background-color: lightblue;">Left Part</div>
-    <div style="flex: 1; background-color: lightcoral;">Right Part</div>
-</div>
+<div style="display: flex; width: 100vw; height: 100px; background-color: lightgray;">
+        <div style="flex: 1; padding: 20px; background-color: #4CAF50; box-sizing: border-box;">
+            Left Column
+        </div>
+        <div style="flex: 1; padding: 20px; background-color: #2196F3; box-sizing: border-box;">
+            Right Column
+        </div>
+    </div>
 
 ---
 
