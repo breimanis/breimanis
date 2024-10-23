@@ -8,7 +8,8 @@ Self-motivated.
 Languages
 >C#
 >JavaScript / TypeScript
-
+```
+```
 Web
 >ASP.NET
 >MVC
@@ -18,7 +19,8 @@ Web
 >React.js
 >HTML5
 >CSS
-
+```
+```
 Playing
 >Chess
 >Electric guitar / Modular synthesizers
