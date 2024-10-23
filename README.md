@@ -26,3 +26,4 @@ Playing
 >Electric guitar / Modular synthesizers
 >Video games developed by 'facepunch'
 ```
+![alt text](https://github.com/breimanis/breimanis/blob/main/ascii-art.png)
