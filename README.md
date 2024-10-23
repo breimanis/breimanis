@@ -15,7 +15,7 @@ Web
 >MVC
 >LINQ
 >WebApi
->NodeJS
+>Node.js
 >React.js
 >HTML5
 >CSS
