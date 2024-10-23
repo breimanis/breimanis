@@ -1,4 +1,9 @@
 ~~## Hi there 👋~~
+<div class="container" style="display: flex; flex-direction: row; height: 100vh;">
+    <div style="flex: 1; background-color: lightblue;">Left Part</div>
+    <div style="flex: 1; background-color: lightcoral;">Right Part</div>
+</div>
+
 ---
 
 Software Developer working to create high-quality code. Experience in .NET Core & SQL. Ability to build, test, and deploy web applications. 
