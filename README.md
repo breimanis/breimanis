@@ -26,4 +26,3 @@ Playing
 >Electric guitar / Modular synthesizers
 >Video games developed by 'facepunch'
 ```
-https://failiem.lv/u/kqug8run8t
