@@ -1,7 +1,7 @@
 ~~## Hi there 👋~~
 ---
 
-Software Developer working to create high-quality code. Experience in .NET Core & SQL. Ability to build, test, and deploy web applications. 
+Software Developer working to create high-quality code. Experience in React, .NET Core & SQL. Ability to build, test, and deploy web applications. 
 Self-motivated.
 
 ```
